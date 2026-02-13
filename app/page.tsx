@@ -30,12 +30,7 @@ export default function Home() {
         </p>
 
         {/* 3. Botão para o GitHub */}
-        <div className="pt-6 ">
-          <a 
-            href="https://github.com/gildecy" 
-            target="_blank" 
-            rel="noopener noreferrer"
-            <span class="relative flex size-3">
+ <span class="relative flex size-3">
   <span class="absolute inline-flex h-full w-full animate-ping rounded-full bg-sky-400 opacity-75"></span>
   <span class="relative inline-flex size-3 rounded-full bg-sky-500"></span>
 </span>
