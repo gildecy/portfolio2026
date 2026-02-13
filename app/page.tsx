@@ -35,7 +35,7 @@ export default function Home() {
             href="https://github.com/gildecy" 
             target="_blank" 
             rel="noopener noreferrer"
-            className="inline-block px-8 py-3 bg-blue-400 text-black animate-ping rounded-full bg-sky-400 opacity-75 font-semibold rounded-lg  transition-colors"
+            className="inline-block px-8 py-3 bg-blue-400 text-black animate-ping rounded-full bg-sky-400  font-semibold rounded-lg"
           >
             Acessar GitHub
           </a>
