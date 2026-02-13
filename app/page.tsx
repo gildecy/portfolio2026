@@ -30,8 +30,9 @@ export default function Home() {
         </p>
 
         {/* 3. Botão para o GitHub */}
+         <span class="relative flex size-3">
  <a href="https://github.com/gildecy" target="_blank" class="inline-flex items-center gap-2 px-4 py-2 bg-gray-900 text-white rounded-lg hover:bg-gray-800 transition-colors">
-  <span class="relative flex size-3">
+ 
     <span class="absolute inline-flex h-full w-full animate-ping rounded-full bg-sky-400 opacity-75"></span>
     <span class="relative inline-flex size-3 rounded-full bg-sky-500"></span>
   </span>
