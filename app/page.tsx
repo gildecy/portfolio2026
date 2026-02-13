@@ -30,12 +30,12 @@ export default function Home() {
         </p>
 
         {/* 3. Botão para o GitHub */}
-        <div className="pt-6">
+        <div className="pt-6 ">
           <a 
             href="https://github.com/gildecy" 
             target="_blank" 
             rel="noopener noreferrer"
-            className="inline-block px-8 py-3 bg-blue-400 text-black font-semibold rounded-lg hover:bg-lime-400 transition-colors"
+            className="inline-block px-8 py-3 bg-blue-400 text-black animate-ping rounded-full bg-sky-400 opacity-75 font-semibold rounded-lg  transition-colors"
           >
             Acessar GitHub
           </a>
